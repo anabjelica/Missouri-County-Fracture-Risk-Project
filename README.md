@@ -10,5 +10,6 @@
 # How to Run:
 # - Open the Kaggle Notebook file in this repository
 # - Install required packages (pandas, numpy, scipy, scikit-learn, matplotlib, geopandas)
-# - Upload the Missouri county-level dataset and topologically integrated geographic encoding maps (sources specified in notebook)
 # - Run all cells (or run sequentially top to bottom)
+# Data:
+# Missouri county population dataset used (available from the US Census Bureau)
